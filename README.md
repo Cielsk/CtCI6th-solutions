@@ -12,4 +12,5 @@ Java and Kotlin solutions to interview questions of _Cracking the Coding Intervi
 
 - Arrays and Strings
 - Linked Lists
+- Stacks and Queues
 
